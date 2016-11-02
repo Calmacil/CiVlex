@@ -1,0 +1,9 @@
+{
+    "home": {
+        "pattern": "/",
+        "uid": "home.ctl",
+        "controller": "Home",
+        "action": "indexAction",
+        "method": "get"
+    }
+}
